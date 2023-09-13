@@ -1,6 +1,6 @@
 # temp-repo
 
-Open Source 2nd Lecture
+## <Open Source 2nd Lecture>
 
 1. Create branch
 Click the Main function button creates "my-first-branch"
